@@ -1,1 +1,13 @@
-Hello World
+---
+layout: default
+---
+{% for post in site.posts limit:1 %}
+<h2>
+    <small>Dernier billet :</small> <br>
+    <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>
+        {{ post.title }}
+    </a>
+</h2>
+<p>{{ post.date | date_to_long_string }}</p>
+<p>{{ post.excerpt | strip_html | truncate: 500 }}</p>
+{% endfor %}
