@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% for post in site.posts limit:1 %}
 <h2>
     <small>Dernier billet :</small> <br>
@@ -8,6 +9,6 @@ layout: default
         {{ post.title }}
     </a>
 </h2>
-<p>{{ post.date | date_to_long_string }}</p>
+<p>{% include date-longue.html date=post.date  %}</p>
 <p>{{ post.excerpt | strip_html | truncate: 500 }}</p>
 {% endfor %}
