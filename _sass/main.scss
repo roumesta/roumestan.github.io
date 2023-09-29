@@ -28,6 +28,14 @@ h1 a {
     text-decoration: none;
 }
 
+h4 + ul {
+    margin-top: -1em;
+}
+
+h2 + ul {
+    margin-top: -1em;
+}
+
 .img-responsive {
     max-width: 100%;
     height: auto;
