@@ -1,0 +1,24 @@
+- name: Sommaire (p. 2 et 3)
+  link: resume_sommaire.pdf
+- name: blank
+- name: Vocabulaire des opérations (p. 17)
+  link: CL1_resume_vocabulaire_operations.pdf
+- name: Quelques conventions d'écriture des expressions mathématiques (p. 18)
+  link: CL1_resume_conventions_ecriture.pdf
+- name: Calcul littéral (p. 19)
+  link: CL1_resume_calcul_litteral.pdf
+- name: blank
+- name: Les deux géométries planes (p.32 et 33)
+  link: G1_resume_deux_geometries.pdf
+- name: Projeté orthogonal d'un point sur une droite (p.34)
+  link: G1_resume_projete_orthogonal.pdf
+- name: Cosinus, sinus et tangente d'un angle (p. 36 et 37)
+  link: G1_resume_cosinus_sinus_tangente.pdf
+- name: Parallélogrammes (p. 39)
+  link: G1_resume_parallelogrammes.pdf
+- name: blank
+- name: Fréquences et pourcentages (p. 68 et 69)
+  link: S1_resume_frequence_pourcentages.pdf
+- name: blank
+- name: Logique (p. 95 et 96)
+  link: G1_resume_logique.pdf

@@ -1,8 +1,28 @@
-- name: Les deux géométries planes (p.32 et 33)
-  link: G1_resume_deux_geometries.pdf
-- name: Projeté orthogonal d'un point sur une droite (p.34)
-  link: G1_resume_projete_orthogonal.pdf
-- name: Cosinus, sinus et tangente d'un angle (p. 36 et 37)
-  link: G1_resume_cosinus_sinus_tangente.pdf
-- name: Parallélogrammes (p. 39)
-  link: G1_resume_parallelogrammes.pdf
+# PARTIE 1
+- name: PART
+  part_name: Partie 1 - Statistiques et probabilités
+- name: Statistiques 1 - Fluctuation de fréquences (énoncés)
+  link: S1_enonces.pdf
+- name: Exercice des bulletins blancs (énoncé)
+  link: S1_bulletins_blancs_enonce.pdf
+#- name: Exercice des bulletins blancs (corrigé)
+#  link: S1_bulletins_blancs_corrige.pdf
+  
+# PARTIE 2
+- name: PART
+  part_name: Partie 2 - Fonctions
+- name: 
+  
+# PARTIE 3
+- name: PART
+  part_name: Partie 3 - Géométrie
+- name: Géométrie 1 - Problèmes de géométrie (énoncés)
+  link: G1_enonces.pdf
+
+# PARTIE 4
+- name: PART
+  part_name: Partie 4 - Calcul littéral, algorithmes et ensembles
+- name: Calcul littéral 1 - Expressions du premier degré (énoncés)
+  link: CL1_enonces.pdf
+- name: Calcul littéral 1 - Expressions du premier degré (bilans distribués)
+  link: CL1_bilans.pdf
