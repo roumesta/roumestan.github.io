@@ -13,8 +13,8 @@ title: Seconde
     Statistiques 1 - Fluctuation de fréquences (énoncés)</a></li>
 <li><a href="{{ site.url }}/documents/S1_bulletins_blancs_enonce.pdf" target="_blank">
     Statistiques 1 - Exercice des bulletins blancs (énoncé)</a></li>
-<li><a href="{{ site.url }}/documents/S1_bulletins_blancs_corrige.pdf" target="_blank">
-    Statistiques 1 - Exercice des bulletins blancs (corrigé)</a></li>
+<!-- <li><a href="{{ site.url }}/documents/S1_bulletins_blancs_corrige.pdf" target="_blank">
+    Statistiques 1 - Exercice des bulletins blancs (corrigé)</a></li> -->
 </ul>
     
 <h4>Partie 2 - Fonctions</h4>
@@ -38,12 +38,13 @@ title: Seconde
 <li><a href="{{ site.url }}/documents/CL1_resume_conventions_ecriture.pdf" target="_blank">Quelques conventions d'écriture des expressions mathématiques (p. 18)</a></li>
 <li><a href="{{ site.url }}/documents/CL1_resume_calcul_litteral.pdf" target="_blank">Calcul littéral (p. 19)</a></li>
 </ul>
+
 <ul>
-<li><a href="{{ site.url }}/documents/G1_resume_deux_geometries.pdf" target="_blank">Les deux géométries planes (p.32 et 33)</a></li>
-<li><a href="{{ site.url }}/documents/G1_resume_projete_orthogonal.pdf" target="_blank">Projeté orthogonal d'un point sur une droite (p.34)</a></li>
-<li><a href="{{ site.url }}/documents/G1_resume_cosinus_sinus_tangente.pdf" target="_blank">Cosinus, sinus et tangente d'un angle (p. 36 et 37)</a></li>
-<li><a href="{{ site.url }}/documents/G1_resume_parallelogrammes.pdf" target="_blank">Parallélogrammes (p. 39)</a></li>
+{% for item in site.data.documents_seconde %}
+<li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>
+{% endfor %}
 </ul>
+
 <ul>
 <li><a href="{{ site.url }}/documents/S1_resume_frequence_pourcentages.pdf" target="_blank">Fréquences et pourcentages (p. 68 et 69)</a></li>
 </ul>

@@ -1,9 +1,9 @@
 - name: Accueil
   link: /
-- name: À propos
-  link: /about.html
 - name: Seconde
   link: /seconde.html
+- name: 1re STL
+  link: /premiere_stl.html
 - name: Blog
   link: /blog.html
 - name: Contact

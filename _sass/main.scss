@@ -28,6 +28,11 @@ h1 a {
     text-decoration: none;
 }
 
+h2 + .date {
+    margin-top: -1em;
+    font-style: italic;
+}
+
 h4 + ul {
     margin-top: -1em;
 }

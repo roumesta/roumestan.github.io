@@ -9,7 +9,13 @@ layout: default
         {{ post.title }}
     </a>
 </h2>
-<p>{% include date-longue.html date=post.date  %}</p>
+<div class='date'>{% include date-longue.html date=post.date  %}</div>
 <p>{{ post.excerpt | strip_html | truncate: 500 }} <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>Lire la suite...</a></p>
 
 {% endfor %}
+
+<h2>À propos</h2>
+
+<p>Je suis M. Roumestan, enseignant de mathématiques au lycée Hippolyte Fontaine de Dijon.</p>
+
+<p>Ce site web est un espace de partage de documents et d'informations à destination de mes élèves.</p>
