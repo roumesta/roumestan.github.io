@@ -18,6 +18,8 @@
   part_name: Partie 3 - Géométrie
 - name: Géométrie 1 - Problèmes de géométrie (énoncés)
   link: G1_enonces.pdf
+- name: Géométrie 1 - Problèmes de géométrie (bilans distribués)
+  link: G1_enonces.pdf
 
 # PARTIE 4
 - name: PART
@@ -26,3 +28,5 @@
   link: CL1_enonces.pdf
 - name: Calcul littéral 1 - Expressions du premier degré (bilans distribués)
   link: CL1_bilans.pdf
+- name: Calcul littéral 1 - Entraînement
+  link: CL1_entrainement_calcul_litteral.pdf
