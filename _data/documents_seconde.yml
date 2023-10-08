@@ -3,10 +3,12 @@
   part_name: Partie 1 - Statistiques et probabilités
 - name: Statistiques 1 - Fluctuation de fréquences (énoncés)
   link: S1_enonces.pdf
-- name: Exercice des bulletins blancs (énoncé)
+- name: Statistiques 1 - Fluctuation de fréquences (bilans)
+  link: S1_bilans.pdf
+- name: Statistiques 1 - Exercice des bulletins blancs (énoncé)
   link: S1_bulletins_blancs_enonce.pdf
-#- name: Exercice des bulletins blancs (corrigé)
-#  link: S1_bulletins_blancs_corrige.pdf
+- name: Statistiques 1 - Exercice des bulletins blancs (corrigé)
+  link: S1_bulletins_blancs_corrige.pdf
   
 # PARTIE 2
 - name: PART
@@ -18,15 +20,15 @@
   part_name: Partie 3 - Géométrie
 - name: Géométrie 1 - Problèmes de géométrie (énoncés)
   link: G1_enonces.pdf
-- name: Géométrie 1 - Problèmes de géométrie (bilans distribués)
-  link: G1_enonces.pdf
+- name: Géométrie 1 - Problèmes de géométrie (bilans)
+  link: G1_bilans.pdf
 
 # PARTIE 4
 - name: PART
   part_name: Partie 4 - Calcul littéral, algorithmes et ensembles
 - name: Calcul littéral 1 - Expressions du premier degré (énoncés)
   link: CL1_enonces.pdf
-- name: Calcul littéral 1 - Expressions du premier degré (bilans distribués)
+- name: Calcul littéral 1 - Expressions du premier degré (bilans)
   link: CL1_bilans.pdf
-- name: Calcul littéral 1 - Entraînement
+- name: Calcul littéral 1 - Entraînement de calcul littéral n˚1
   link: CL1_entrainement_calcul_litteral.pdf
