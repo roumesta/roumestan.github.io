@@ -1,6 +1,13 @@
 - name: Sommaire (p. 2 et 3)
   link: resume_sommaire.pdf
 - name: blank
+- name: Multiples, diviseurs et nombres premiers (p. 10)
+  link: S1_resume_multiples_diviseurs_premiers.pdf
+- name: Nombre en écriture fractionnaire (p. 12)
+  link: CL1_resume_fractions.pdf
+- name: Racine carrée d’un nombre positif ou nul (p. 13)
+  link: G1_resume_racine_carree.pdf
+- name: blank
 - name: Vocabulaire des opérations (p. 17)
   link: CL1_resume_vocabulaire_operations.pdf
 - name: Quelques conventions d'écriture des expressions mathématiques (p. 18)
