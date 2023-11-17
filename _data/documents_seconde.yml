@@ -9,11 +9,13 @@
   link: S1_bulletins_blancs_enonce.pdf
 - name: Statistiques 1 - Exercice des bulletins blancs (corrigé)
   link: S1_bulletins_blancs_corrige.pdf
+- name: Probabilités 1 - Probabilités (énoncés et bilans)
+  link: P1_enonces_bilans.pdf
   
 # PARTIE 2
 - name: PART
   part_name: Partie 2 - Fonctions
-- name: 
+- name:
   
 # PARTIE 3
 - name: PART
@@ -26,6 +28,8 @@
   link: G1_exercices_complementaires.pdf
 - name: Géométrie 1 - Exercices complémentaires (correction)
   link: G1_correction_exercices_complementaires.pdf
+- name: Géométrie 2 - Géométrie plane repérées (énoncés et bilans)
+  link: G2_enonces_bilans.pdf
 
 # PARTIE 4
 - name: PART
