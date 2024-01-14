@@ -1,26 +1,37 @@
 body {
-    max-width: 600px;
+    font-family: 'Arial', sans-serif;
+    max-width: 450px;
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
 }
 
-.current {
-    color: crimson;
-    text-decoration: underline;
+header h1 {
+    text-align: center;
 }
 
-a:active {
-    color: crimson;
+nav {
+    display: flex;
+    flex-direction: column;
 }
 
 nav a {
-    color: black;
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+    text-align: center;
     text-decoration: none;
+    color: black;
 }
 
+nav a.current {
+    background-color: #e74c3c;  /* Set the background color for the current page */
+}
+
+/* Add hover effect */
 nav a:hover {
-    color: crimson;
+    background-color: lightgray;  /* Set the background color on hover */
 }
 
 h1 a {

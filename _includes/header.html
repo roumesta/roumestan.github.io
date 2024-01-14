@@ -2,9 +2,18 @@
     <h1><img src="{{ site.url }}/assets/images/icone.svg" style="height:30px;"><a href='{{ site.url }}/'>{{ site.name }}</a></h1>
 </header>
 
+{% if page.url == "/" %}
+<hr>
 <nav>
-    |
     {% for item in site.data.navigation %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a> |
+        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %} style="border: 2px solid #{{ item.color }};">{{ item.name }}</a>
     {% endfor %}
 </nav>
+{% endif %}
+
+{% if page.url != "/" %}
+<hr>
+<nav>
+<a href="/" style="border: 2px solid #e74c3c;"> Accueil </a>
+</nav>
+{% endif %}
