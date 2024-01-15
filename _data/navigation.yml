@@ -1,12 +1,12 @@
 - name: Seconde
   link: /seconde.html
-  color: 3498db
-- name: 1re STL
+  color: blue
+- name: Première STL
   link: /premiere_stl.html
-  color: e67e22
+  color: green
 - name: Blog
   link: /blog.html
-  color: 2ecc71
+  color: purple
 - name: Contact
   link: /contact.html
-  color: 9b59b6
+  color: orange

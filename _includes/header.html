@@ -6,14 +6,13 @@
 <hr>
 <nav>
     {% for item in site.data.navigation %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %} style="border: 2px solid #{{ item.color }};">{{ item.name }}</a>
+        <a href="{{ item.link }}" class="{{ item.color }}{% if page.url == item.link %} current{% endif %}">{{ item.name }}</a>
     {% endfor %}
 </nav>
 {% endif %}
-
 {% if page.url != "/" %}
 <hr>
 <nav>
-<a href="/" style="border: 2px solid #e74c3c;"> Accueil </a>
+<a href="/" class="red">Accueil</a>
 </nav>
 {% endif %}

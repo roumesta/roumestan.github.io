@@ -13,25 +13,83 @@ header h1 {
 nav {
     display: flex;
     flex-direction: column;
+    font-size: 16px;
 }
 
 nav a {
+    background: none;
+    border: 2px solid #000;
+    border-radius: 25px;
+    color: #000;
     display: block;
-    padding: 10px;
-    margin: 5px;
-    border-radius: 20px;
+    height: 40px;
+    line-height: 40px;
+    margin: 10px auto;
+    padding: 0 10px;
     text-align: center;
+    text-transform: uppercase;
     text-decoration: none;
-    color: black;
+    width: 80%;
+    font-weight: bold;
 }
 
+nav a:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+nav a.green {
+    border-color: #27ae60;
+    color: #27ae60;
+}
+
+nav a.green:hover {
+    background-color: #27ae60;
+    color: #fff;
+}
+
+nav a.orange {
+    border-color: #e67e22;
+    color: #e67e22;
+}
+
+nav a.orange:hover {
+    background-color: #e67e22;
+    color: #fff;
+}
+
+nav a.blue {
+    border-color: #3498db;
+    color: #3498db;
+}
+
+nav a.blue:hover {
+    background-color: #3498db;
+    color: #fff;
+}
+
+nav a.purple {
+    border-color: #9b59b6;
+    color: #9b59b6;
+}
+
+nav a.purple:hover {
+    background-color: #9b59b6;
+    color: #fff;
+}
+
+nav a.red {
+    border-color: #e74c3c;
+    color: #e74c3c;
+}
+
+nav a.red:hover {
+    background-color: #e74c3c;
+    color: #fff;
+}
+    
 nav a.current {
     background-color: #e74c3c;  /* Set the background color for the current page */
-}
-
-/* Add hover effect */
-nav a:hover {
-    background-color: lightgray;  /* Set the background color on hover */
 }
 
 h1 a {
