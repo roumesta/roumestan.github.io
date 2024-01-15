@@ -9,6 +9,8 @@ title: Seconde
 <ul>
 {% for item in site.data.documents_seconde %}
 {% if item.name == "PART" %}
+</ul> <h3>{{item.part_name}}</h3> <ul>
+{% elsif item.name == "SEQUENCE" %}
 </ul> <h4>{{item.part_name}}</h4> <ul>
 {% else %}
 <li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>

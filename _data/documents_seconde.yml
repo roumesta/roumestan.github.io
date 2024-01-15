@@ -1,45 +1,57 @@
 # PARTIE 1
 - name: PART
   part_name: Partie 1 - Statistiques et probabilités
-- name: Statistiques 1 - Fluctuation de fréquences (énoncés)
+- name: SEQUENCE
+  part_name: Statistiques 1 - Fluctuation de fréquences
+- name: Énoncés des exercices
   link: S1_enonces.pdf
-- name: Statistiques 1 - Fluctuation de fréquences (bilans)
+- name: Bilans distribués
   link: S1_bilans.pdf
-- name: Statistiques 1 - Exercice des bulletins blancs (énoncé)
+- name: Devoir maison
   link: S1_bulletins_blancs_enonce.pdf
-- name: Statistiques 1 - Exercice des bulletins blancs (corrigé)
+- name: Devoir maison (corrigé)
   link: S1_bulletins_blancs_corrige.pdf
-- name: Probabilités 1 - Probabilités (énoncés et bilans)
+- name: SEQUENCE
+  part_name: Probabilités 1 - Probabilités (Partie 1)
+- name: Énoncés des exercices et bilans distribués
   link: P1_enonces_bilans.pdf
   
 # PARTIE 2
 - name: PART
   part_name: Partie 2 - Fonctions
-- name: Fonctions 1 - Problèmes faisant intervenir des fonctions (énoncés et bilans)
+- name: SEQUENCE
+  part_name: Fonctions 1 - Problèmes faisant intervenir des fonctions
+- name: Énoncés des exercices et bilans distribués
   link: F1_enonces_bilans.pdf
   
 # PARTIE 3
 - name: PART
   part_name: Partie 3 - Géométrie
-- name: Géométrie 1 - Problèmes de géométrie (énoncés)
+- name: SEQUENCE
+  part_name: Géométrie 1 - Problèmes de géométrie
+- name: Énoncés des exercices
   link: G1_enonces.pdf
-- name: Géométrie 1 - Problèmes de géométrie (bilans)
+- name: Bilans distribués
   link: G1_bilans.pdf
-- name: Géométrie 1 - Exercices complémentaires
+- name: Exercices complémentaires
   link: G1_exercices_complementaires.pdf
-- name: Géométrie 1 - Exercices complémentaires (correction)
+- name: Exercices complémentaires (correction)
   link: G1_correction_exercices_complementaires.pdf
-- name: Géométrie 2 - Géométrie plane repérées (énoncés et bilans)
+- name: SEQUENCE
+  part_name: Géométrie 2 - Géométrie plane repérées
+- name: Énoncés des exercices et bilans distribués
   link: G2_enonces_bilans.pdf
 
 # PARTIE 4
 - name: PART
   part_name: Partie 4 - Calcul littéral, algorithmes et ensembles
-- name: Calcul littéral 1 - Expressions du premier degré (énoncés)
+- name: SEQUENCE
+  part_name: Calcul littéral 1 - Expressions du premier degré
+- name: Énoncés des exercices
   link: CL1_enonces.pdf
-- name: Calcul littéral 1 - Expressions du premier degré (bilans)
+- name: Bilans distribués
   link: CL1_bilans.pdf
-- name: Calcul littéral 1 - Entraînement de calcul littéral n˚1
+- name: Entraînement de calcul littéral n˚1
   link: CL1_entrainement_calcul_litteral.pdf
-- name: Calcul littéral 1 - Entraînement de calcul littéral n˚1 (correction)
+- name: Entraînement de calcul littéral n˚1 (correction)
   link: CL1_entrainement_calcul_litteral_correction.pdf
