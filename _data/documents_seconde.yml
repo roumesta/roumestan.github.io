@@ -23,16 +23,16 @@
   part_name: Fonctions 1 - Problèmes faisant intervenir des fonctions
 - name: Énoncés des exercices et bilans distribués
   link: F1_enonces_bilans.pdf
+- name: Devoir maison
+  link: F1_devoir_maison.pdf
   
 # PARTIE 3
 - name: PART
   part_name: Partie 3 - Géométrie
 - name: SEQUENCE
   part_name: Géométrie 1 - Problèmes de géométrie
-- name: Énoncés des exercices
+- name: Énoncés des exercices et bilans distribués
   link: G1_enonces.pdf
-- name: Bilans distribués
-  link: G1_bilans.pdf
 - name: Exercices complémentaires
   link: G1_exercices_complementaires.pdf
 - name: Exercices complémentaires (correction)
