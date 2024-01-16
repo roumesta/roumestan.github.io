@@ -112,8 +112,10 @@ h3 + ul {
 }
 
 h4 + ul {
-    margin-top: -1em;
     display: none;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+    margin-top: 0;
 }
 
 .img-responsive {
@@ -121,16 +123,17 @@ h4 + ul {
     height: auto;
 }
 
-h4 {
-  cursor: pointer;
+h4:has(+ul) {
+    cursor: pointer;
+    margin-bottom: 5px;
 }
 
 h4::before {
-  content: "\f105"; /* Unicode for right-pointing triangle */
-  font-family: "Font Awesome 5 Free";
-  display: inline-block;
-  margin-right: 5px;
-  transition: transform 0.3s ease-in-out;
+    content: "\f105"; /* Unicode for right-pointing triangle */
+    font-family: "Font Awesome 5 Free";
+    display: inline-block;
+    margin-right: 5px;
+    transition: transform 0.3s ease-in-out;
 }
 
 h4.expanded::before {

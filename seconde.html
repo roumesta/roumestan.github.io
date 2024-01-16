@@ -31,13 +31,13 @@ title: Seconde
 
 
 <script>
-  $(document).ready(function() {
-    // Add click event listener to each h4 element
-    $('h4').click(function() {
-      // Toggle the class to change the indicator
-      $(this).toggleClass('expanded');
-      // Toggle the visibility of the next ul element
-      $(this).next('ul').slideToggle();
-    });
+$(document).ready(function() {
+  // Add click event listener to each h4 element
+  $('h4').click(function() {
+    // Toggle the class to change the indicator
+    $(this).toggleClass('expanded');
+    // Toggle the visibility of the next ul element with slide animation
+    $(this).next('ul').slideToggle();
   });
+});
 </script>
