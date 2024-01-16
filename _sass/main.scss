@@ -113,9 +113,26 @@ h3 + ul {
 
 h4 + ul {
     margin-top: -1em;
+    display: none;
 }
 
 .img-responsive {
     max-width: 100%;
     height: auto;
+}
+
+h4 {
+  cursor: pointer;
+}
+
+h4::before {
+  content: "\f105"; /* Unicode for right-pointing triangle */
+  font-family: "Font Awesome 5 Free";
+  display: inline-block;
+  margin-right: 5px;
+  transition: transform 0.3s ease-in-out;
+}
+
+h4.expanded::before {
+  transform: rotate(90deg);
 }
