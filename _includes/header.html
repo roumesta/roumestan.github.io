@@ -1,9 +1,13 @@
 <header>
-    <h1><img src="{{ site.url }}/assets/images/icone.svg" style="height:30px;"><a href='{{ site.url }}/'>{{ site.name }}</a></h1>
+    <img src="{{ site.url }}/assets/images/icone.svg" alt="Logo" style="height:60px;">
+    <h1>
+        <a href='{{ site.url }}/'>Le site de <br> M. Roumestan</a>
+    </h1>
 </header>
 
-{% if page.url == "/" %}
+
 <hr>
+{% if page.url == "/" %}
 <nav>
     {% for item in site.data.navigation %}
         <a href="{{ item.link }}" class="{{ item.color }}{% if page.url == item.link %} current{% endif %}">{{ item.name }}</a>
@@ -11,8 +15,8 @@
 </nav>
 {% endif %}
 {% if page.url != "/" %}
-<hr>
 <nav>
 <a href="/" class="red">Accueil</a>
 </nav>
 {% endif %}
+<hr>

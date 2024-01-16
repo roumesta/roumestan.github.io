@@ -1,13 +1,18 @@
 body {
     font-family: 'Arial', sans-serif;
-    max-width: 450px;
+    max-width: 400px;
     margin: auto;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 1.5vh;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 header h1 {
-    text-align: center;
+    margin: 0 10px;
 }
 
 nav {
@@ -19,11 +24,11 @@ nav {
 nav a {
     background: none;
     border: 2px solid #000;
-    border-radius: 25px;
+    border-radius: 20px;
     color: #000;
     display: block;
-    height: 40px;
-    line-height: 40px;
+    height: 36px;
+    line-height: 36px;
     margin: 10px auto;
     padding: 0 10px;
     text-align: center;
