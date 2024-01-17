@@ -125,6 +125,7 @@ h4 + ul {
 
 h4:has(+ul) {
     cursor: pointer;
+    margin-top: 10px;
     margin-bottom: 5px;
 }
 
@@ -133,6 +134,7 @@ h4::before {
     font-family: "Font Awesome 5 Free";
     display: inline-block;
     margin-right: 5px;
+    margin-left: 5px;
     transition: transform 0.3s ease-in-out;
 }
 

@@ -1,6 +1,7 @@
 # PARTIE 1
 - name: PART
   part_name: Partie 1 - Statistiques et probabilités
+  color: 3498db
 - name: SEQUENCE
   part_name: Statistiques 1 - Fluctuation de fréquences
 - name: Énoncés des exercices
@@ -19,8 +20,9 @@
 # PARTIE 2
 - name: PART
   part_name: Partie 2 - Fonctions
+  color: 27ae60
 - name: SEQUENCE
-  part_name: Fonctions 1 - Problèmes faisant intervenir des fonctions
+  part_name: Fonctions 1 - Problèmes avec des fonctions
 - name: Énoncés des exercices et bilans distribués
   link: F1_enonces_bilans.pdf
 - name: Devoir maison
@@ -29,6 +31,7 @@
 # PARTIE 3
 - name: PART
   part_name: Partie 3 - Géométrie
+  color: 9b59b6
 - name: SEQUENCE
   part_name: Géométrie 1 - Problèmes de géométrie
 - name: Énoncés des exercices et bilans distribués
@@ -44,7 +47,8 @@
 
 # PARTIE 4
 - name: PART
-  part_name: Partie 4 - Calcul littéral, algorithmes et ensembles
+  part_name: Partie 4 - Calcul littéral
+  color: e67e22
 - name: SEQUENCE
   part_name: Calcul littéral 1 - Expressions du premier degré
 - name: Énoncés des exercices
