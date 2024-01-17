@@ -45,7 +45,7 @@
 - title: Partie 4 - Calcul littéral
   color: e67e22
   sequences:
-    - title: Calcul littéral 1 - Expressions du premier degré
+    - title: Calcul littéral 1 - Expressions du 1<sup>er</sup> degré
       items:
         - name: Exercices
           link: CL1_enonces.pdf
@@ -55,3 +55,13 @@
           link: CL1_entrainement_calcul_litteral.pdf
         - name: Entraînement de calcul littéral n˚1 (correction)
           link: CL1_entrainement_calcul_litteral_correction.pdf
+    - title: Calcul littéral 2 - Équations du 1<sup>er</sup> degré
+      items:
+        - name: Exercices et bilans
+          link: CL2_enonces_bilans.pdf
+        - name: Entraînement de calcul littéral n˚2
+          link: CL2_entrainement_calcul_litteral.pdf
+    - title: Notion d'ensemble
+      items:
+        - name: Exercices et bilans
+          link: ENS_enonces_bilans.pdf
