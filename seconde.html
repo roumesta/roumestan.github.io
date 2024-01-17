@@ -4,31 +4,29 @@ title: Seconde
 ---
 
 <style>
-  h3 {
-    color: #ffffff;
-    border-bottom: 2px solid #3498db;
-    margin-top: 20px;
-  }
-    
-  li:before {
-    content: "\f15b"; /* Unicode character for the FontAwesome 'fa-file-pdf' outline icon */
-    font-family: 'Font Awesome 5 Free'; /* Use the appropriate Font Awesome font-family */
-    margin-right: 5px; /* Adjust as needed */
-  }
-    
-  ul {
-    list-style-type: none;
-    padding-left:5px; 
-  }
-    
 
 </style>
 
 <p>Vous retrouverez sur cette page l'ensemble des documents distribués en classe. Tous sont au format PDF et peuvent être imprimés si nécessaire.</p>
 
 <h2>Cahier de bord</h2>
-<ul>
-{% for item in site.data.documents_seconde %}
+
+{% for part in site.data.seconde_docs %}
+    <h3 class= "parties-secondes" style="color:#{{ part.color }}">{{ part.title }}</h3>
+    {% for sequence in part.sequences %}
+        <h4 class="toggle">{{ sequence.title }}</h4>
+        <ul class="documents">
+        {% for item in sequence.items %}
+        <li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>
+        {% endfor %}
+        </ul>
+    {% endfor %}
+{% endfor %}
+
+
+<!--
+<ul class="toggle-document-list">
+{% for item in site.data.seconde_documents %}
 {% if item.name == "PART" %}
 </ul> <h3 style="color:#{{item.color}}; border-bottom-color:#{{item.color}}">{{item.part_name}}</h3> <ul>
 {% elsif item.name == "SEQUENCE" %}
@@ -38,18 +36,19 @@ title: Seconde
 {% endif %}
 {% endfor %}
 </ul>
+-->
+
 
 <h2>Cahier de résumés</h2>
-<ul>
-{% for item in site.data.resumes_seconde %}
+<ul class="documents">
+{% for item in site.data.seconde_resumes %}
 {% if item.name == "blank" %}
-</ul><ul>
+</ul><ul class="documents">
 {% else %}
 <li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
-
 
 <script>
 $(document).ready(function() {

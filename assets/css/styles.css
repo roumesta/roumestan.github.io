@@ -110,29 +110,25 @@ h2 + .date {
     font-style: italic;
 }
 
-h3 + ul {
-    margin-top: -0.5em;
+.img-responsive {
+    max-width: 100%;
+    height: auto;
 }
 
-h4 + ul {
+h4.toggle {
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+h4.toggle + ul {
     display: none;
     overflow: hidden;
     transition: max-height 0.3s ease-in-out;
     margin-top: 0;
 }
 
-.img-responsive {
-    max-width: 100%;
-    height: auto;
-}
-
-h4:has(+ul) {
-    cursor: pointer;
-    margin-top: 10px;
-    margin-bottom: 5px;
-}
-
-h4::before {
+h4.toggle::before {
     content: "\f105"; /* Unicode for right-pointing triangle */
     font-family: "Font Awesome 5 Free";
     display: inline-block;
@@ -143,4 +139,26 @@ h4::before {
 
 h4.expanded::before {
   transform: rotate(90deg);
+}
+
+h3.parties-secondes {
+    color: black;
+    border-bottom: 2px solid;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+ul.documents {
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+h4.toggle + ul.documents {
+    padding-left: 25px;
+}
+
+ul.documents li:before {
+    content: "\f15b";
+    font-family: 'Font Awesome 5 Free';
+    margin-right: 5px;
 }

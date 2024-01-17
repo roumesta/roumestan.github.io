@@ -1,0 +1,57 @@
+- title: Partie 1 - Statistiques et probabilités
+  color: 3498db
+  sequences:
+    - title: Statistiques 1 - Fluctuation de fréquences
+      items:
+        - name: Exercices
+          link: S1_enonces.pdf
+        - name: Bilans
+          link: S1_bilans.pdf
+        - name: Devoir maison
+          link: S1_bulletins_blancs_enonce.pdf
+        - name: Devoir maison (corrigé)
+          link: S1_bulletins_blancs_corrige.pdf
+    - title: Probabilités 1 - Probabilités (Partie 1)
+      items:
+        - name: Exercices et bilans
+          link: P1_enonces_bilans.pdf
+
+- title: Partie 2 - Fonctions
+  color: 27ae60
+  sequences:
+    - title: Fonctions 1 - Problèmes avec des fonctions
+      items:
+        - name: Exercices et bilans
+          link: F1_enonces_bilans.pdf
+        - name: Devoir maison
+          link: F1_devoir_maison.pdf
+
+- title: Partie 3 - Géométrie
+  color: 9b59b6
+  sequences:
+    - title: Géométrie 1 - Problèmes de géométrie
+      items:
+        - name: Exercices et bilans
+          link: G1_enonces.pdf
+        - name: Exercices complémentaires
+          link: G1_exercices_complementaires.pdf
+        - name: Exercices complémentaires (correction)
+          link: G1_correction_exercices_complementaires.pdf
+    - title: Géométrie 2 - Géométrie plane repérée
+      items:
+        - name: Exercices et bilans
+          link: G2_enonces_bilans.pdf
+
+- title: Partie 4 - Calcul littéral
+  color: e67e22
+  sequences:
+    - title: Calcul littéral 1 - Expressions du premier degré
+      items:
+        - name: Exercices
+          link: CL1_enonces.pdf
+        - name: Bilans
+          link: CL1_bilans.pdf
+        - name: Entraînement de calcul littéral n˚1
+          link: CL1_entrainement_calcul_litteral.pdf
+        - name: Entraînement de calcul littéral n˚1 (correction)
+          link: CL1_entrainement_calcul_litteral_correction.pdf
