@@ -15,6 +15,10 @@
       items:
         - name: Exercices et bilans
           link: P1_enonces_bilans.pdf
+    - title: Statistiques 2 - Séries statistiques
+      items:
+        - name: Exercices et bilans
+          link: S2_enonces_bilans.pdf
 
 - title: Partie 2 - Fonctions
   color: 27ae60
