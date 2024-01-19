@@ -1,40 +1,44 @@
-- name: Sommaire (p. 2 et 3)
-  link: resume_sommaire.pdf
-- name: blank
-- name: Multiples, diviseurs et nombres premiers (p. 10)
-  link: S1_resume_multiples_diviseurs_premiers.pdf
-- name: Nombre en écriture fractionnaire (p. 12)
-  link: CL1_resume_fractions.pdf
-- name: Racine carrée d’un nombre positif ou nul (p. 13)
-  link: G1_resume_racine_carree.pdf
-- name: Valeur absolue, distance entre deux nombres (p. 15)
-  link: G2_resume_valeur_absolue.pdf
-- name: blank
-- name: Vocabulaire des opérations (p. 17)
-  link: CL1_resume_vocabulaire_operations.pdf
-- name: Quelques conventions d'écriture des expressions mathématiques (p. 18)
-  link: CL1_resume_conventions_ecriture.pdf
-- name: Calcul littéral (p. 19)
-  link: CL1_resume_calcul_litteral.pdf
-- name: blank
-- name: Les deux géométries planes (p.32 et 33)
-  link: G1_resume_deux_geometries.pdf
-- name: Projeté orthogonal d'un point sur une droite (p.34)
-  link: G1_resume_projete_orthogonal.pdf
-- name: Cosinus, sinus et tangente d'un angle (p. 36 et 37)
-  link: G1_resume_cosinus_sinus_tangente.pdf
-- name: Parallélogrammes (p. 39)
-  link: G1_resume_parallelogrammes.pdf
-- name: Géométrie plane repérée (p. 49 et 50)
-  link: G2_geometrie_reperee.pdf
-- name: blank
-- name: Fonctions - Généralités, extremum, sens de variation (p. 51 et 52)
-  link: F1_resume_fonctions_generalites_variations.pdf
-- name: blank
-- name: Fréquences et pourcentages (p. 68 et 69)
-  link: S1_resume_frequence_pourcentages.pdf
-- name: Probabilités (p. 76 et 77)
-  link: P1_resume_probabilites.pdf
-- name: blank
-- name: Logique (p. 95 et 96)
-  link: G1_resume_logique.pdf
+- title: Nombres
+  items:
+    - name: Multiples, diviseurs, nombres premiers (p. 10)
+      link: S1_resume_multiples_diviseurs_premiers.pdf
+    - name: Écriture fractionnaire (p. 12)
+      link: CL1_resume_fractions.pdf
+    - name: Racine carrée (p. 13)
+      link: G1_resume_racine_carree.pdf
+    - name: Valeur absolue (p. 15)
+      link: G2_resume_valeur_absolue.pdf
+- title: Calcul littéral
+  items:
+    - name: Vocabulaire des opérations (p. 17)
+      link: CL1_resume_vocabulaire_operations.pdf
+    - name: Conventions d'écriture (p. 18)
+      link: CL1_resume_conventions_ecriture.pdf
+    - name: Calcul littéral (p. 19)
+      link: CL1_resume_calcul_litteral.pdf
+- title: Géométrie
+  items:
+    - name: Les deux géométries planes (p.32 et 33)
+      link: G1_resume_deux_geometries.pdf
+    - name: Projeté orthogonal (p.34)
+      link: G1_resume_projete_orthogonal.pdf
+    - name: Cosinus, sinus et tangente (p. 36 et 37)
+      link: G1_resume_cosinus_sinus_tangente.pdf
+    - name: Parallélogrammes (p. 39)
+      link: G1_resume_parallelogrammes.pdf
+    - name: Géométrie plane repérée (p. 49 et 50)
+      link: G2_geometrie_reperee.pdf
+- title: Fonctions
+  items:
+    - name: Généralités, extremum, variation (p. 51 et 52)
+      link: F1_resume_fonctions_generalites_variations.pdf
+- title: Statistiques et probabilités
+  items:
+    - name: Fréquences et pourcentages (p. 68 et 69)
+      link: S1_resume_frequence_pourcentages.pdf
+    - name: Probabilités (p. 76 et 77)
+      link: P1_resume_probabilites.pdf
+- title: Vocabulaire ensembliste et logique
+  items:
+    - name: Logique (p. 95 et 96)
+      link: G1_resume_logique.pdf

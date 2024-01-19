@@ -4,7 +4,16 @@ title: Seconde
 ---
 
 <style>
-
+  h2{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border-bottom: 3px solid;
+    font-variant: small-caps;
+  }
+  
+  li{
+    margin-bottom: 5px;
+  }
 </style>
 
 <p>Vous retrouverez sur cette page l'ensemble des documents distribués en classe. Tous sont au format PDF et peuvent être imprimés si nécessaire.</p>
@@ -23,32 +32,20 @@ title: Seconde
     {% endfor %}
 {% endfor %}
 
-
-<!--
-<ul class="toggle-document-list">
-{% for item in site.data.seconde_documents %}
-{% if item.name == "PART" %}
-</ul> <h3 style="color:#{{item.color}}; border-bottom-color:#{{item.color}}">{{item.part_name}}</h3> <ul>
-{% elsif item.name == "SEQUENCE" %}
-</ul> <h4>{{item.part_name}}</h4> <ul>
-{% else %}
-<li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
--->
-
-
 <h2>Cahier de résumés</h2>
+
 <ul class="documents">
-{% for item in site.data.seconde_resumes %}
-{% if item.name == "blank" %}
-</ul><ul class="documents">
-{% else %}
-<li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>
-{% endif %}
-{% endfor %}
+<li><a href="{{ site.url }}/documents/resume_sommaire.pdf" target="_blank">Sommaire</a></li>
 </ul>
+
+{% for part in site.data.seconde_resumes %}
+    <h4 class="toggle">{{ part.title }}</h4>
+    <ul class="documents">
+    {% for item in part.items %}
+    <li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>
+    {% endfor %}
+    </ul>
+{% endfor %}
 
 <script>
 $(document).ready(function() {
