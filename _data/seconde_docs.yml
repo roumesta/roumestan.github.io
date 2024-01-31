@@ -11,7 +11,7 @@
           link: S1_bulletins_blancs_enonce.pdf
         - name: Devoir maison (corrigé)
           link: S1_bulletins_blancs_corrige.pdf
-    - title: Probabilités 1 - Probabilités (Partie 1)
+    - title: Probabilités 1 - Probabilités (1/2)
       items:
         - name: Exercices et bilans
           link: P1_enonces_bilans.pdf
@@ -23,12 +23,16 @@
 - title: Partie 2 - Fonctions
   color: 27ae60
   sequences:
-    - title: Fonctions 1 - Problèmes avec des fonctions
+    - title: Fonctions 1 - Problèmes avec des fonctions (1/2)
       items:
         - name: Exercices et bilans
           link: F1_enonces_bilans.pdf
         - name: Devoir maison
           link: F1_devoir_maison.pdf
+    - title: Fonctions 2 - Problèmes avec des fonctions (2/2)
+      items:
+        - name: Exercices et bilans
+          link: F2_enonces_bilans.pdf
 
 - title: Partie 3 - Géométrie
   color: 9b59b6
