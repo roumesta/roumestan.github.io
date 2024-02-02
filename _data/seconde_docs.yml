@@ -33,6 +33,8 @@
       items:
         - name: Exercices et bilans
           link: F2_enonces_bilans.pdf
+        - name: Devoir maison
+          link: F2_devoir_maison.pdf
 
 - title: Partie 3 - Géométrie
   color: 9b59b6
