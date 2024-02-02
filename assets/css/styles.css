@@ -2,10 +2,11 @@
 ---
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Nunito', sans-serif;
     max-width: 400px;
     margin: auto;
     padding: 1.5vh;
+    background: #fafafa;
 }
 
 header {
@@ -16,6 +17,9 @@ header {
 
 header h1 {
     margin: 0 10px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    line-height: 1;
 }
 
 nav {
@@ -25,7 +29,7 @@ nav {
 }
 
 nav a {
-    background: none;
+    background: #fff;
     border: 2px solid #000;
     border-radius: 20px;
     color: #000;
@@ -101,7 +105,7 @@ nav a.current {
 }
 
 h1 a {
-    color: black;
+    color: inherit;
     text-decoration: none;
 }
 
