@@ -22,6 +22,11 @@ header h1 {
     line-height: 1;
 }
 
+header a {
+    color: inherit;
+    text-decoration: none;
+}
+
 nav {
     display: flex;
     flex-direction: column;
@@ -29,24 +34,20 @@ nav {
 }
 
 nav a {
-    background: #fff;
+    width: 100%;
+    margin: 10px auto;
     border: 2px solid #000;
     border-radius: 20px;
-    color: #000;
-    display: block;
+    background: #fff;
     height: 36px;
     line-height: 36px;
-    margin: 10px auto;
-    padding: 0 10px;
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
-    width: 80%;
     font-weight: bold;
 }
 
 nav a:hover {
-    background-color: lightgray;
     cursor: pointer;
 }
 
@@ -99,15 +100,6 @@ nav a.red:hover {
     background-color: #e74c3c;
     color: #fff;
 }
-    
-nav a.current {
-    background-color: #e74c3c;  /* Set the background color for the current page */
-}
-
-h1 a {
-    color: inherit;
-    text-decoration: none;
-}
 
 h2 + .date {
     margin-top: -1em;
@@ -133,7 +125,7 @@ h4.toggle + ul {
 }
 
 h4.toggle::before {
-    content: "\f105"; /* Unicode for right-pointing triangle */
+    content: "\f105";
     font-family: "Font Awesome 5 Free";
     display: inline-block;
     margin-right: 5px;
@@ -165,4 +157,11 @@ ul.documents li:before {
     content: "\f15b";
     font-family: 'Font Awesome 5 Free';
     margin-right: 5px;
+}
+
+h2.underline {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border-bottom: 3px solid;
+    font-variant: small-caps;
 }

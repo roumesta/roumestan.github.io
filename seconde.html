@@ -4,12 +4,7 @@ title: Seconde
 ---
 
 <style>
-  h2{
-    margin-top: 30px;
-    margin-bottom: 0px;
-    border-bottom: 3px solid;
-    font-variant: small-caps;
-  }
+
   
   li{
     margin-bottom: 5px;
@@ -18,7 +13,7 @@ title: Seconde
 
 <p>Vous retrouverez sur cette page l'ensemble des documents distribués en classe. Tous sont au format PDF et peuvent être imprimés si nécessaire.</p>
 
-<h2>Cahier de bord</h2>
+<h2 class="underline">Cahier de bord</h2>
 
 {% for part in site.data.seconde_docs %}
     <h3 class= "parties-secondes" style="color:#{{ part.color }}">{{ part.title }}</h3>
@@ -32,7 +27,7 @@ title: Seconde
     {% endfor %}
 {% endfor %}
 
-<h2>Cahier de résumés</h2>
+<h2 class="underline">Cahier de résumés</h2>
 
 <ul class="documents">
 <li><a href="{{ site.url }}/documents/resume_sommaire.pdf" target="_blank">Sommaire</a></li>
