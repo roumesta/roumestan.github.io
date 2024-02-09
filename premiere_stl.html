@@ -3,4 +3,11 @@ layout: default
 title: Premiere STL
 ---
 
-Rien à signaler ici pour le moment.
+Vous retrouverez sur cette page l'ensemble des résumés de cours distribués en classe. Tous sont au format PDF et peuvent être imprimés si nécessaire.
+
+
+<ul class="documents">
+{% for item in site.data.1stl_resumes %}
+<li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>
+{% endfor %}
+</ul>
