@@ -71,6 +71,8 @@
           link: CL2_enonces_bilans.pdf
         - name: Entraînement de calcul littéral n˚2
           link: CL2_entrainement_calcul_litteral.pdf
+        - name: Entraînement de calcul littéral n˚2 (correction)
+          link: CL2_entrainement_corrige.pdf
     - title: Notion d'ensemble
       items:
         - name: Exercices et bilans
