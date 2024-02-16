@@ -1,12 +1,36 @@
 ---
 ---
 
+html{
+    height: 100%;
+}
+
 body {
     font-family: 'Nunito', sans-serif;
+    background: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+/*
+    background-image: url(/assets/images/gradient.jpg);
+    background-size: cover;
+*/
+}
+
+.glasscontainer {
     max-width: 400px;
     margin: auto;
     padding: 1.5vh;
-    background: #fafafa;
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.44);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    overflow-y:scroll; overflow-x:hidden; height: 95%;
 }
 
 header {
@@ -38,7 +62,7 @@ nav a {
     margin: 10px auto;
     border: 2px solid #000;
     border-radius: 20px;
-    background: #fff;
+    /* background: #fff; */
     height: 36px;
     line-height: 36px;
     text-align: center;
