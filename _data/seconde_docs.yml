@@ -33,8 +33,10 @@
       items:
         - name: Exercices et bilans
           link: F2_enonces_bilans.pdf
-        - name: Devoir maison
+        - name: Devoir maison (déménagement)
           link: F2_devoir_maison.pdf
+        - name: Devoir maison (boites cubiques)
+          link: F2_boites_cubiques.pdf
 
 - title: Partie 3 - Géométrie
   color: 9b59b6
@@ -51,6 +53,10 @@
       items:
         - name: Exercices et bilans
           link: G2_enonces_bilans.pdf
+    - title: Vecteurs 1 - Vecteurs, coordonnées, somme
+      items:
+        - name: Exercices et bilans
+          link: V1_exercices.pdf
 
 - title: Partie 4 - Calcul littéral
   color: e67e22
