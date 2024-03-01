@@ -1,22 +1,22 @@
-- name: Suites numériques
+- name: Chap. 1 - Suites numériques
   link: STL_suites.pdf
-- name: Généralités sur les fonctions
+- name: Chap. 3 - Généralités sur les fonctions
   link: STL_fonctions.pdf
-- name: Taux de variation
+- name: Chap. 3 - Taux de variation
   link: STL_taux_de_variation.pdf
-- name: Nombre dérivé
+- name: Chap. 5 - Nombre dérivé
   link: STL_nombre_derive.pdf
-- name: Fonction dérivée
+- name: Chap. 5 - Fonction dérivée
   link: STL_fonction_derivee.pdf
-- name: Calcul de proportions
+- name: Chap. 6 - Calcul de proportions
   link: STL_proportions.pdf
-- name: Tableaux croisés
+- name: Chap. 6 - Tableaux croisés
   link: STL_tableaux_croises.pdf
-- name: Cercle trigonométrique et radians
+- name: Chap. 8 - Cercle trigonométrique et radians
   link: STL_cercle_trigo.pdf
-- name: Cosinus et sinus d’un nombre réel
+- name: Chap. 8 - Cosinus et sinus d’un nombre réel
   link: STL_cos_sin.pdf
-- name: Produit scalaire
+- name: Chap. 9 - Produit scalaire
   link: STL_produit_scalaire.pdf
-- name: Utiliser le produit scalaire
+- name: Chap. 9 - Utiliser le produit scalaire
   link: STL_utiliser_produit_scalaire.pdf
