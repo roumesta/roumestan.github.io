@@ -19,6 +19,10 @@
       items:
         - name: Exercices et bilans
           link: S2_enonces_bilans.pdf
+    - title: Probabilités 2 - Probabilités (2/2)
+      items:
+        - name: Exercices et bilans
+          link: P2_enonces_bilans.pdf
 
 - title: Partie 2 - Fonctions
   color: 27ae60
@@ -37,6 +41,10 @@
           link: F2_devoir_maison.pdf
         - name: Devoir maison (boites cubiques)
           link: F2_boites_cubiques.pdf
+    - title: Fonctions 3 - Fonctions théoriques
+      items:
+        - name: Exercices et bilans
+          link: F3_enonces_bilans.pdf
 
 - title: Partie 3 - Géométrie
   color: 9b59b6
@@ -57,6 +65,14 @@
       items:
         - name: Exercices et bilans
           link: V1_exercices.pdf
+    - title: Géométrie 3 - Coefficient directeur d'une droite
+      items:
+        - name: Exercices et bilans
+          link: G3_enonces_bilans.pdf
+    - title: Géométrie 4 - Équations d'une droite
+      items:
+        - name: Exercices et bilans
+          link: G4_enonces_bilans.pdf
 
 - title: Partie 4 - Calcul littéral
   color: e67e22
@@ -83,3 +99,11 @@
       items:
         - name: Exercices et bilans
           link: ENS_enonces_bilans.pdf
+    - title: Calcul littéral 3 - Expressions du 2nd degré
+      items:
+        - name: Exercices et bilans
+          link: CL3_enonces_bilans.pdf
+        - name: Entraînement de calcul littéral n˚3
+          link: CL3_entrainement_calcul_litteral.pdf
+        - name: Entraînement de calcul littéral n˚4
+          link: CL4_entrainement_calcul_litteral.pdf

@@ -30,6 +30,10 @@
       link: G1_resume_parallelogrammes.pdf
     - name: Vecteurs (p. 40, 41 et 42)
       link: V1_resume.pdf
+    - name: Coefficient directeur d'une droite (p. 45)
+      link: G3_resume.pdf
+    - name: Équations d'une droite (p. 46 et 47)
+      link: G4_resume.pdf
     - name: Géométrie plane repérée (p. 49 et 50)
       link: G2_geometrie_reperee.pdf
 - title: Fonctions
@@ -40,6 +44,8 @@
   items:
     - name: Fréquences et pourcentages (p. 68 et 69)
       link: S1_resume_frequence_pourcentages.pdf
+    - name: Séries statistiques (p. 72 et 73)
+      link: S2_resume.pdf
     - name: Probabilités (p. 76 et 77)
       link: P1_resume_probabilites.pdf
 - title: Vocabulaire ensembliste et logique
