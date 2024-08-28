@@ -3,107 +3,95 @@
   sequences:
     - title: Statistiques 1 - Fluctuation de fréquences
       items:
-        - name: Exercices
-          link: S1_enonces.pdf
-        - name: Bilans
-          link: S1_bilans.pdf
-        - name: Devoir maison
-          link: S1_bulletins_blancs_enonce.pdf
-        - name: Devoir maison (corrigé)
-          link: S1_bulletins_blancs_corrige.pdf
-    - title: Probabilités 1 - Probabilités (1/2)
-      items:
         - name: Exercices et bilans
-          link: P1_enonces_bilans.pdf
-    - title: Statistiques 2 - Séries statistiques
-      items:
-        - name: Exercices et bilans
-          link: S2_enonces_bilans.pdf
-    - title: Probabilités 2 - Probabilités (2/2)
-      items:
-        - name: Exercices et bilans
-          link: P2_enonces_bilans.pdf
+          link: S1_enonces_bilans.pdf
+#        - name: Devoir maison (bulletins blancs)
+#          link: S1_bulletins_blancs.pdf
+#    - title: Probabilités 1 - Probabilités (1/2)
+#      items:
+#        - name: Exercices et bilans
+#          link: P1_enonces_bilans.pdf
+#    - title: Statistiques 2 - Séries statistiques
+#      items:
+#        - name: Exercices et bilans
+#          link: S2_enonces_bilans.pdf
+#    - title: Probabilités 2 - Probabilités (2/2)
+#      items:
+#        - name: Exercices et bilans
+#          link: P2_enonces_bilans.pdf
 
 - title: Partie 2 - Fonctions
   color: 27ae60
   sequences:
-    - title: Fonctions 1 - Problèmes avec des fonctions (1/2)
-      items:
-        - name: Exercices et bilans
-          link: F1_enonces_bilans.pdf
-        - name: Devoir maison
-          link: F1_devoir_maison.pdf
-    - title: Fonctions 2 - Problèmes avec des fonctions (2/2)
-      items:
-        - name: Exercices et bilans
-          link: F2_enonces_bilans.pdf
-        - name: Devoir maison (déménagement)
-          link: F2_devoir_maison.pdf
-        - name: Devoir maison (boites cubiques)
-          link: F2_boites_cubiques.pdf
-    - title: Fonctions 3 - Fonctions théoriques
-      items:
-        - name: Exercices et bilans
-          link: F3_enonces_bilans.pdf
+#    - title: Fonctions 1 - Problèmes avec des fonctions (1/2)
+#      items:
+#        - name: Exercices et bilans
+#          link: F1_enonces_bilans.pdf
+#        - name: Devoir maison (lynx et lièvres)
+#          link: F1_lynx_lievres.pdf
+#    - title: Fonctions 2 - Problèmes avec des fonctions (2/2)
+#      items:
+#        - name: Exercices et bilans
+#          link: F2_enonces_bilans.pdf
+#        - name: Devoir maison (déménagement)
+#          link: F2_demenagement.pdf
+#        - name: Devoir maison (boites cubiques)
+#          link: F2_boites_cubiques.pdf
+#    - title: Fonctions 3 - Fonctions théoriques
+#      items:
+#        - name: Exercices et bilans
+#          link: F3_enonces_bilans.pdf
 
 - title: Partie 3 - Géométrie
   color: 9b59b6
   sequences:
-    - title: Géométrie 1 - Problèmes de géométrie
-      items:
-        - name: Exercices et bilans
-          link: G1_enonces.pdf
-        - name: Exercices complémentaires
-          link: G1_exercices_complementaires.pdf
-        - name: Exercices complémentaires (correction)
-          link: G1_correction_exercices_complementaires.pdf
-    - title: Géométrie 2 - Géométrie plane repérée
-      items:
-        - name: Exercices et bilans
-          link: G2_enonces_bilans.pdf
-    - title: Vecteurs 1 - Vecteurs, coordonnées, somme
-      items:
-        - name: Exercices et bilans
-          link: V1_exercices.pdf
-    - title: Géométrie 3 - Coefficient directeur d'une droite
-      items:
-        - name: Exercices et bilans
-          link: G3_enonces_bilans.pdf
-    - title: Géométrie 4 - Équations d'une droite
-      items:
-        - name: Exercices et bilans
-          link: G4_enonces_bilans.pdf
+#    - title: Géométrie 1 - Problèmes de géométrie
+#      items:
+#        - name: Exercices et bilans
+#          link: G1_enonces_bilans.pdf
+#        - name: Exercices complémentaires
+#          link: G1_exos_comp.pdf
+#    - title: Géométrie 2 - Géométrie plane repérée
+#      items:
+#        - name: Exercices et bilans
+#          link: G2_enonces_bilans.pdf
+#    - title: Vecteurs 1 - Vecteurs, coordonnées, somme
+#      items:
+#        - name: Exercices et bilans
+#          link: V1_exercices.pdf
+#    - title: Géométrie 3 - Coefficient directeur d'une droite
+#      items:
+#        - name: Exercices et bilans
+#          link: G3_enonces_bilans.pdf
+#    - title: Géométrie 4 - Équations d'une droite
+#      items:
+#        - name: Exercices et bilans
+#          link: G4_enonces_bilans.pdf
 
 - title: Partie 4 - Calcul littéral
   color: e67e22
-  sequences:
-    - title: Calcul littéral 1 - Expressions du 1er degré
-      items:
-        - name: Exercices
-          link: CL1_enonces.pdf
-        - name: Bilans
-          link: CL1_bilans.pdf
-        - name: Entraînement de calcul littéral n˚1
-          link: CL1_entrainement_calcul_litteral.pdf
-        - name: Entraînement de calcul littéral n˚1 (correction)
-          link: CL1_entrainement_calcul_litteral_correction.pdf
-    - title: Calcul littéral 2 - Équations du 1er degré
-      items:
-        - name: Exercices et bilans
-          link: CL2_enonces_bilans.pdf
-        - name: Entraînement de calcul littéral n˚2
-          link: CL2_entrainement_calcul_litteral.pdf
-        - name: Entraînement de calcul littéral n˚2 (correction)
-          link: CL2_entrainement_corrige.pdf
-    - title: Notion d'ensemble
-      items:
-        - name: Exercices et bilans
-          link: ENS_enonces_bilans.pdf
-    - title: Calcul littéral 3 - Expressions du 2nd degré
-      items:
-        - name: Exercices et bilans
-          link: CL3_enonces_bilans.pdf
-        - name: Entraînement de calcul littéral n˚3
-          link: CL3_entrainement_calcul_litteral.pdf
-        - name: Entraînement de calcul littéral n˚4
-          link: CL4_entrainement_calcul_litteral.pdf
+#  sequences:
+#    - title: Calcul littéral 1 - Expressions du 1er degré
+#      items:
+#        - name: Exercices et bilans
+#          link: CL1_enonces_bilans.pdf
+#        - name: Entraînement de calcul littéral n˚1
+#          link: CL1_entrainement_calcul_litteral.pdf
+#    - title: Calcul littéral 2 - Équations du 1er degré
+#      items:
+#        - name: Exercices et bilans
+#          link: CL2_enonces_bilans.pdf
+#        - name: Entraînement de calcul littéral n˚2
+#          link: CL2_entrainement_calcul_litteral.pdf
+#    - title: Notion d'ensemble
+#      items:
+#        - name: Exercices et bilans
+#          link: ENS_enonces_bilans.pdf
+#    - title: Calcul littéral 3 - Expressions du 2nd degré
+#      items:
+#        - name: Exercices et bilans
+#          link: CL3_enonces_bilans.pdf
+#        - name: Entraînement de calcul littéral n˚3
+#          link: CL3_entrainement_calcul_litteral.pdf
+#        - name: Entraînement de calcul littéral n˚4
+#          link: CL4_entrainement_calcul_litteral.pdf
