@@ -5,8 +5,10 @@
       items:
         - name: Exercices et bilans
           link: S1_enonces_bilans.pdf
-#        - name: Devoir maison (bulletins blancs)
-#          link: S1_bulletins_blancs.pdf
+        - name: Exercice des bulletins blancs (énoncé)
+          link: S1_bulletins_blancs.pdf
+        - name: Exercice des bulletins blancs (fichier ODS)
+          link: S1_Bulletins_blancs_Dijon_centre.ods
 #    - title: Probabilités 1 - Probabilités (1/2)
 #      items:
 #        - name: Exercices et bilans
@@ -45,10 +47,10 @@
 - title: Partie 3 - Géométrie
   color: 9b59b6
   sequences:
-#    - title: Géométrie 1 - Problèmes de géométrie
-#      items:
-#        - name: Exercices et bilans
-#          link: G1_enonces_bilans.pdf
+    - title: Géométrie 1 - Problèmes de géométrie
+      items:
+        - name: Exercices et bilans
+          link: G1_enonces_bilans.pdf
 #        - name: Exercices complémentaires
 #          link: G1_exos_comp.pdf
 #    - title: Géométrie 2 - Géométrie plane repérée
