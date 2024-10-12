@@ -51,8 +51,10 @@
       items:
         - name: Exercices et bilans
           link: G1_enonces_bilans.pdf
-#        - name: Exercices complémentaires
-#          link: G1_exos_comp.pdf
+        - name: Exercices complémentaires
+          link: G1_exos_complementaires.pdf
+        - name : Exercices complémentaires (correction)
+          link : G1_correction_exos_complementaires.pdf
 #    - title: Géométrie 2 - Géométrie plane repérée
 #      items:
 #        - name: Exercices et bilans
@@ -72,13 +74,13 @@
 
 - title: Partie 4 - Calcul littéral
   color: e67e22
-#  sequences:
-#    - title: Calcul littéral 1 - Expressions du 1er degré
-#      items:
-#        - name: Exercices et bilans
-#          link: CL1_enonces_bilans.pdf
-#        - name: Entraînement de calcul littéral n˚1
-#          link: CL1_entrainement_calcul_litteral.pdf
+  sequences:
+    - title: Calcul littéral 1 - Expressions du 1er degré
+      items:
+        - name: Exercices et bilans
+          link: CL1_enonces_bilans.pdf
+        - name: Entraînement de calcul littéral n˚1
+          link: CL1_entrainement_calcul_litteral.pdf
 #    - title: Calcul littéral 2 - Équations du 1er degré
 #      items:
 #        - name: Exercices et bilans
