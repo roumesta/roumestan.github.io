@@ -55,10 +55,10 @@
           link: G1_exos_complementaires.pdf
         - name : Exercices complémentaires (correction)
           link : G1_correction_exos_complementaires.pdf
-#    - title: Géométrie 2 - Géométrie plane repérée
-#      items:
-#        - name: Exercices et bilans
-#          link: G2_enonces_bilans.pdf
+    - title: Géométrie 2 - Géométrie plane repérée
+      items:
+        - name: Devoir maison (exercice du trésor)
+          link: G2_tresor.pdf
 #    - title: Vecteurs 1 - Vecteurs, coordonnées, somme
 #      items:
 #        - name: Exercices et bilans
@@ -81,6 +81,8 @@
           link: CL1_enonces_bilans.pdf
         - name: Entraînement de calcul littéral n˚1
           link: CL1_entrainement_calcul_litteral.pdf
+        - name: Entraînement de calcul littéral n˚1
+          link: CL1_entrainement_correction.pdf
 #    - title: Calcul littéral 2 - Équations du 1er degré
 #      items:
 #        - name: Exercices et bilans
