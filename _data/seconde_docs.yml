@@ -57,6 +57,8 @@
           link : G1_correction_exos_complementaires.pdf
     - title: Géométrie 2 - Géométrie plane repérée
       items:
+        - name: Exercices et bilans
+          link: G2_enonces_bilans.pdf
         - name: Devoir maison (exercice du trésor)
           link: G2_tresor.pdf
 #    - title: Vecteurs 1 - Vecteurs, coordonnées, somme
