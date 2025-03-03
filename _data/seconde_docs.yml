@@ -9,14 +9,14 @@
           link: S1_bulletins_blancs.pdf
         - name: Exercice des bulletins blancs (fichier ODS)
           link: S1_Bulletins_blancs_Dijon_centre.ods
-#    - title: Probabilités 1 - Probabilités (1/2)
-#      items:
-#        - name: Exercices et bilans
-#          link: P1_enonces_bilans.pdf
-#    - title: Statistiques 2 - Séries statistiques
-#      items:
-#        - name: Exercices et bilans
-#          link: S2_enonces_bilans.pdf
+    - title: Probabilités 1 - Probabilités (1/2)
+      items:
+        - name: Exercices et bilans
+          link: P1_enonces_bilans.pdf
+    - title: Statistiques 2 - Séries statistiques
+      items:
+        - name: Exercices et bilans
+          link: S2_enonces_bilans.pdf
 #    - title: Probabilités 2 - Probabilités (2/2)
 #      items:
 #        - name: Exercices et bilans
@@ -25,16 +25,12 @@
 - title: Partie 2 - Fonctions
   color: 27ae60
   sequences:
-#    - title: Fonctions 1 - Problèmes avec des fonctions (1/2)
-#      items:
-#        - name: Exercices et bilans
-#          link: F1_enonces_bilans.pdf
+    - title: Fonctions 1 - Problèmes avec des fonctions
+      items:
+        - name: Exercices et bilans
+          link: F1_enonces_bilans.pdf
 #        - name: Devoir maison (lynx et lièvres)
 #          link: F1_lynx_lievres.pdf
-#    - title: Fonctions 2 - Problèmes avec des fonctions (2/2)
-#      items:
-#        - name: Exercices et bilans
-#          link: F2_enonces_bilans.pdf
 #        - name: Devoir maison (déménagement)
 #          link: F2_demenagement.pdf
 #        - name: Devoir maison (boites cubiques)
@@ -61,7 +57,7 @@
           link: G2_enonces_bilans.pdf
         - name: Devoir maison (exercice du trésor)
           link: G2_tresor.pdf
-#    - title: Vecteurs 1 - Vecteurs, coordonnées, somme
+    - title: Vecteurs 1 - Vecteurs, coordonnées, somme
 #      items:
 #        - name: Exercices et bilans
 #          link: V1_exercices.pdf
@@ -85,10 +81,10 @@
           link: CL1_entrainement_calcul_litteral.pdf
         - name: Entraînement de calcul littéral n˚1 (correction)
           link: CL1_entrainement_calcul_litteral_correction.pdf
-#    - title: Calcul littéral 2 - Équations du 1er degré
-#      items:
-#        - name: Exercices et bilans
-#          link: CL2_enonces_bilans.pdf
+    - title: Calcul littéral 2 - Équations du 1er degré
+      items:
+        - name: Exercices et bilans
+          link: CL2_enonces_bilans.pdf
 #        - name: Entraînement de calcul littéral n˚2
 #          link: CL2_entrainement_calcul_litteral.pdf
 #    - title: Notion d'ensemble
