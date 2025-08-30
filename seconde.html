@@ -17,16 +17,13 @@ title: Seconde
 
 <h2 class="underline">Cahier de bord</h2>
 
-{% for part in site.data.seconde_docs %}
-    <h3 class= "parties-secondes" style="color:#{{ part.color }}">{{ part.title }}</h3>
-    {% for sequence in part.sequences %}
-        <h4 class="toggle">{{ sequence.title }}</h4>
-        <ul class="documents">
-        {% for item in sequence.items %}
-        <li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>
-        {% endfor %}
-        </ul>
+{% for sequence in site.data.seconde_docs %}
+    <h4 class="toggle expanded">{{ sequence.title }}</h4>
+    <ul class="documents">
+    {% for item in sequence.items %}
+    <li><a href="{{ site.url }}/documents/{{ item.link }}" target="_blank">{{ item.name }}</a></li>
     {% endfor %}
+    </ul>
 {% endfor %}
 
 <!--<h2 class="underline">Cahier de résumés</h2>
