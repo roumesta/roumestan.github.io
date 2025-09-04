@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exercice pour les secondes
-date: 2025-09-04 11:00:00 +0200
+date: 2025-09-04 11:15:00 +0200
 ---
 
 Chers élèves de seconde 1,
