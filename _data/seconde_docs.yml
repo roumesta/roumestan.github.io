@@ -1,8 +1,8 @@
 - title: Statistiques 1 - Fluctuation de fréquences
   items:
     - name: Exercices et bilans
-      link: S1_enonces_bilans.pdf
-#    - name: Exercice des bulletins blancs (énoncé)
-#      link: S1_bulletins_blancs.pdf
-#    - name: Exercice des bulletins blancs (fichier ODS)
-#      link: S1_Bulletins_blancs_Dijon_centre.ods
+      link: 200_S1_exercices.pdf
+    - name: Exercice des bulletins blancs (énoncé)
+      link: 200_S1_bulletins_blancs.pdf
+    - name: Exercice des bulletins blancs (fichier ODS)
+      link: Bulletins_blancs_Dijon_centre.ods
