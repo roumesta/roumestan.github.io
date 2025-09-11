@@ -2,7 +2,11 @@
   items:
     - name: Exercices et bilans
       link: 200_S1_exercices.pdf
+    - name: TD - Calculer avec des fractions
+      link: 200_S1_TD_fractions.pdf
+    - name: TD - Calculer avec des fractions (corrigé)
+      link: 200_S1_TD_fractions_corrige.pdf
     - name: Exercice des bulletins blancs (énoncé)
-      link: 200_S1_bulletins_blancs.pdf
+      link: 200_S1_DM_bulletins_blancs.pdf
     - name: Exercice des bulletins blancs (fichier ODS)
-      link: Bulletins_blancs_Dijon_centre.ods
+      link: 200_S1_DM_bulletins_blancs_Dijon_centre.ods
