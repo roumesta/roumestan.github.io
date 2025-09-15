@@ -1,0 +1,12 @@
+- title: Statistiques - Fréquences et tableaux croisés
+  items:
+    - name: Exercices et bilans
+      link: 1STL_S_exercices.pdf
+    - name: Entraînement - Tableaux croisés
+      link: 1STL_S_TD_tableaux.pdf
+    - name: Entraînement - Tableaux croisés (corrigé)
+      link: 1STL_S_TD_tableaux_corrige.pdf
+- title: Fonctions 1 - Modéliser des évolutions continues
+  items:
+    - name: Exercices et bilans
+      link: 1STL_F1_exercices.pdf

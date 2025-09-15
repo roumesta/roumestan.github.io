@@ -10,3 +10,7 @@
       link: 200_S1_DM_bulletins_blancs.pdf
     - name: Exercice des bulletins blancs (fichier ODS)
       link: 200_S1_DM_bulletins_blancs_Dijon_centre.ods
+- title: Géométrie 1 - Dessins et figures
+  items:
+    - name: Exercices et bilans
+      link: 200_G1_exercices.pdf
