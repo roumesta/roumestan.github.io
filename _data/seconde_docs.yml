@@ -1,3 +1,11 @@
+- title: Présentation sur les mémoires
+  items:
+    - name: Séance 1
+      link: memoire_1.pdf
+    - name: Séance 2
+      link: memoire_2.pdf
+    - name: Questionnaire
+      link: memoire_questionnaire.pdf
 - title: Statistiques 1 - Fluctuation de fréquences
   items:
     - name: Exercices et bilans
@@ -6,9 +14,9 @@
       link: 200_S1_TD_fractions.pdf
     - name: TD - Calculer avec des fractions (corrigé)
       link: 200_S1_TD_fractions_corrige.pdf
-    - name: Exercice des bulletins blancs (énoncé)
+    - name: DM - Exercice des bulletins blancs (énoncé)
       link: 200_S1_DM_bulletins_blancs.pdf
-    - name: Exercice des bulletins blancs (fichier ODS)
+    - name: DM - Exercice des bulletins blancs (fichier ODS)
       link: 200_S1_DM_bulletins_blancs_Dijon_centre.ods
 - title: Géométrie 1 - Dessins et figures
   items:
