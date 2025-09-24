@@ -28,3 +28,7 @@
   items:
     - name: Exercices et bilans
       link: 200_G1_exercices.pdf
+    - name: TD - Écrire une démonstration
+      link: 200_G1_TD.pdf
+    - name: TD - Écrire une démonstration (corrigé)
+      link: 200_G1_TD_corrige.pdf

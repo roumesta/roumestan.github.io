@@ -16,3 +16,7 @@
   items:
     - name: Exercices et bilans
       link: 1STL_F1_exercices.pdf
+    - name: Entraînement
+      link: 1STL_F1_TD.pdf
+    - name: Entraînement (corrigé)
+      link: 1STL_F1_TD_corrige.pdf
