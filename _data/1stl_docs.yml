@@ -20,3 +20,11 @@
       link: 1STL_F1_TD.pdf
     - name: Entraînement (corrigé)
       link: 1STL_F1_TD_corrige.pdf
+- title: Trigonométrie 1 - Le cercle trigonométrique
+  items:
+    - name: Exercices et bilans
+      link: 1STL_T1_exercices.pdf
+- title: Fonctions 2 - Fonctions affines
+  items:
+    - name: Exercices et bilans
+      link: 1STL_F2_exercices.pdf
