@@ -34,3 +34,19 @@
       link: 200_G1_TD.pdf
     - name: TD - Écrire une démonstration (corrigé)
       link: 200_G1_TD_corrige.pdf
+- title: Algèbre 1 - Expressions algébriques du 1er degré
+  items:
+    - name: Exercices et bilans
+      link: 200_A1_exercices.pdf
+    - name: TD - Écrire une démonstration
+      link: 200_A1_TD.pdf
+    - name: TD - Écrire une démonstration (corrigé)
+      link: 200_A1_TD_corrige.pdf
+- title: Géométrie 2 - Carrés et racines carrées
+  items:
+    - name: Exercices et bilans
+      link: 200_G2_exercices.pdf
+    - name: TD - Écrire une démonstration
+      link: 200_G2_TD.pdf
+    - name: TD - Écrire une démonstration (corrigé)
+      link: 200_G2_TD.pdf
