@@ -38,19 +38,19 @@
   items:
     - name: Exercices et bilans
       link: 200_A1_exercices.pdf
-    - name: TD - Écrire une démonstration
+    - name: TD - Calculer avec des expressions algébriques
       link: 200_A1_TD.pdf
-    - name: TD - Écrire une démonstration (corrigé)
+    - name: TD - Calculer avec des expressions algébriques (corrigé)
       link: 200_A1_TD_corrige.pdf
 - title: Géométrie 2 - Carrés et racines carrées
   items:
     - name: Exercices et bilans
       link: 200_G2_exercices.pdf
-    - name: TD - Écrire une démonstration
+    - name: TD - Manipuler les racines carrées
       link: 200_G2_TD.pdf
-    - name: TD - Écrire une démonstration (corrigé)
+    - name: TD - Manipuler les racines carrées (corrigé)
       link: 200_G2_TD.pdf
-- title: Géométrie 3 - Carrés et racines carrées
+- title: Géométrie 3 - Repère et coordonnées
   items:
     - name: Exercices et bilans
       link: 200_G3_exercices.pdf
