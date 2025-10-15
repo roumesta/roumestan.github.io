@@ -50,3 +50,7 @@
       link: 200_G2_TD.pdf
     - name: TD - Écrire une démonstration (corrigé)
       link: 200_G2_TD.pdf
+- title: Géométrie 3 - Carrés et racines carrées
+  items:
+    - name: Exercices et bilans
+      link: 200_G3_exercices.pdf
