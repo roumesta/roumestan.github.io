@@ -42,6 +42,10 @@
       link: 200_A1_TD.pdf
     - name: TD - Calculer avec des expressions algébriques (corrigé)
       link: 200_A1_TD_corrige.pdf
+    - name: Entrainement de calcul littéral n˚1
+      link: 200_A1_entrainement_1.pdf
+    - name: Entrainement de calcul littéral n˚1 (corrigé)
+      link: 200_A1_entrainement_1_corrige.pdf
 - title: Géométrie 2 - Carrés et racines carrées
   items:
     - name: Exercices et bilans
