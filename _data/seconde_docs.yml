@@ -4,6 +4,10 @@
       link: 200_automatismes_1.pdf
     - name: Semaines 4 à 5
       link: 200_automatismes_4.pdf
+    - name: Semaines 6 à 7
+      link: 200_automatismes_4.pdf
+    - name: Semaines 10 à 13
+      link: 200_automatismes_10.pdf
 - title: Présentation sur les mémoires
   items:
     - name: Séance 1
@@ -60,3 +64,18 @@
       link: 200_G3_exercices.pdf
     - name: Devoir maison
       link: 200_G3_DM_tresor.pdf
+- title: Statistiques 2 - Indicateurs de position
+  items:
+    - name: Exercices et bilans
+      link: 200_S2_exercices.pdf
+    - name: TD - Déterminer les indicateurs de dispersion
+      link: 200_S2_TD.pdf
+- title: Fonctions 1 - Variations d'une grandeur dépendant du temps
+    - name: Exercices et bilans
+      link: 200_F1_exercices.pdf
+    - name: Exercices et bilans
+      link: 200_F1_DM.pdf
+- title: Statistiques 3 - Indicateurs de dispersion
+  items:
+    - name: Exercices et bilans
+      link: 200_S3_exercices.pdf
