@@ -8,6 +8,8 @@
       link: 200_automatismes_4.pdf
     - name: Semaines 10 à 13
       link: 200_automatismes_10.pdf
+    - name: Semaines 14 à 15
+      link: 200_automatismes_14.pdf
 - title: Présentation sur les mémoires
   items:
     - name: Séance 1
@@ -70,7 +72,7 @@
       link: 200_S2_exercices.pdf
     - name: TD - Déterminer les indicateurs de dispersion
       link: 200_S2_TD.pdf
-- title: Fonctions 1 - Variations d'une grandeur dépendant du temps
+- title: Fonctions 1 - Grandeur dépendant du temps
   items:
     - name: Exercices et bilans
       link: 200_F1_exercices.pdf
@@ -80,3 +82,17 @@
   items:
     - name: Exercices et bilans
       link: 200_S3_exercices.pdf
+- title: Algèbre 2 - Équations de degré 1
+  items:
+    - name: Exercices et bilans
+      link: 200_A2_exercices.pdf
+- title: Fonctions 2 - Covariation de deux grandeurs
+  items:
+    - name: Exercices et bilans
+      link: 200_F2_exercices.pdf
+    - name: TD - Exploiter le graphique d'une fonction
+      link: 200_F2_TD.pdf
+- title: Géométrie 4 - Distance entre deux points
+  items:
+    - name: Exercices et bilans
+      link: 200_G4_exercices.pdf
