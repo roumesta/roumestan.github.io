@@ -92,6 +92,8 @@
       link: 200_F2_exercices.pdf
     - name: TD - Exploiter le graphique d'une fonction
       link: 200_F2_TD.pdf
+     - name: TD - Exploiter le graphique d'une fonction
+      link: 200_F2_TD_corrige.pdf
 - title: Géométrie 4 - Distance entre deux points
   items:
     - name: Exercices et bilans
